@@ -13,3 +13,6 @@ random functionality before expanding it.
 
 With a database most of this functionality will be gone so that was another reason I didnt try to fix the obvious 20
 creature bug. 
+
+
+Also need to add functionality for CR and Type constraints.
